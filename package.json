@@ -1,0 +1,15 @@
+{
+  "name": "l10n-loader",
+  "version": "0.1.0",
+  "description": "Strip l10n syntax for webpack",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Geoff Manning",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "loader",
+    "l10n"
+  ]
+}
